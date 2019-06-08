@@ -10,8 +10,8 @@ public class Item {
     private Double price;
     public Item() {
         name = "";
-        id = 123L;
-        price = 9.99;
+        id = 0L;
+        price = 0.01;
 
     }
 
